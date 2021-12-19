@@ -14,12 +14,12 @@ Topics Covered:
 
 2. Drawing the Newton Fractals
 
-![Newton Fractals](https://user-images.githubusercontent.com/86929630/146687698-133d7b99-9faf-4e28-86b1-35b8c6c748b9.png =250x250)
+   <img src="https://user-images.githubusercontent.com/86929630/146687867-ec651d2a-04cb-4242-ae37-0ee3903de727.png" width="150" height="150">
+ 
 3. Approximation of Functions by Polynomials  
    - Lagrange Interpolation
    - Polynomial Fit
    - Numerical Differentiation
-
    - Richardson Extrapolation
 
 4. Numerical Integration  
