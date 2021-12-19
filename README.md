@@ -13,7 +13,7 @@ Topics Covered:
    - Bisection Method
 
 2. Drawing the Newton Fractals
-
+![Alt text](relative/path/to/Newton Fractals.png?raw=true "Title")
 3. Approximation of Functions by Polynomials  
    - Lagrange Interpolation
    - Polynomial Fit
