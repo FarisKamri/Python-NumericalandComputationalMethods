@@ -14,7 +14,7 @@ Topics Covered:
 
 2. Drawing the Newton Fractals
 
-3. Approximation of Functions by Polynomials*  
+3. Approximation of Functions by Polynomials  
    - Lagrange Interpolation
    - Polynomial Fit
    - Numerical Differentiation
