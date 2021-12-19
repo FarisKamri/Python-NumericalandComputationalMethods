@@ -12,7 +12,7 @@ Topics Covered:
    - Secant Method
    - Bisection Method
 
-2. Drawing the* Newton Fractals
+2. Drawing the Newton Fractals
 
 3. Approximation of Functions by Polynomials*  
    - Lagrange Interpolation
